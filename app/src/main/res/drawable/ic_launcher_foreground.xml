@@ -5,27 +5,13 @@
     android:viewportWidth="108"
     android:viewportHeight="108">
 
-    <!-- Left puzzle piece (female - indent on right edge) -->
+    <!-- Kiri: potongan puzzle dengan indentasi -->
     <path
         android:fillColor="#FFFFFF"
-        android:pathData="M18,27 L54,27 L54,42 A8,8 0 0,0 54,58 L54,73 L18,73 Z" />
+        android:pathData="M18,24 L54,24 L54,44 A8,8 0 0,0 54,60 L54,84 L18,84 Z" />
 
-    <!-- Right puzzle piece (male - bump on left edge) -->
+    <!-- Kanan: potongan puzzle dengan tonjolan -->
     <path
         android:fillColor="#FFFFFF"
-        android:pathData="M54,27 L90,27 L90,73 L54,73 L54,58 A8,8 0 0,0 54,42 Z" />
-
-    <!-- Letter "8" on the right piece -->
-    <path
-        android:fillColor="#4158D0"
-        android:pathData="M63,36 C63,32 67,29 72,29 C77,29 81,32 81,36 C81,40 78,43 72,43 C66,43 63,40 63,36 Z"
-        android:strokeWidth="0" />
-
-    <path
-        android:fillColor="#4158D0"
-        android:pathData="M63,36 L63,36 Z" />
-
-    <path
-        android:fillColor="#4158D0"
-        android:pathData="M72,45 C78,45 81,48 81,52 C81,56 77,59 72,59 C67,59 63,56 63,52 C63,48 66,45 72,45 Z" />
+        android:pathData="M56,24 L90,24 L90,84 L56,84 L56,60 A8,8 0 0,1 56,44 Z" />
 </vector>
