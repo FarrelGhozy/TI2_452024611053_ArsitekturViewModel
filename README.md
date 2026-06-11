@@ -1,0 +1,1 @@
+# TI2_452024611053_ArsitekturViewModel
