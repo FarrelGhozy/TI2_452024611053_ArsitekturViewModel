@@ -37,18 +37,9 @@ UI (Composable) ──event──> ViewModel ──state──> UI (Composable)
 
 ## Screenshot
 
-<!-- Taruh screenshot di folder assets/screenshots/ lalu referensikan di sini -->
-
-| Game Play | Game Over |
+| Icon Aplikasi | Tampilan Aplikasi |
 |:---:|:---:|
-| <img src="assets/screenshots/game_play.png" width="250" alt="Game Play"/> | <img src="assets/screenshots/game_over.png" width="250" alt="Game Over"/> |
-
-> **Cara ambil screenshot:**
-> 1. Jalankan `./gradlew installDebug`
-> 2. Buka app di emulator/device
-> 3. Tekan **Ctrl+F11** (rotate) — data game tetap utuh
-> 4. Ambil screenshot lewat Android Studio (Logcat → Camera icon) atau `Ctrl+S`
-> 5. Simpan sebagai `game_play.png` dan `game_over.png` ke `assets/screenshots/`
+| <img src="assets/screenshots/iconApp.png" width="120" alt="Icon"/> | <img src="assets/screenshots/gambaranIsiAplikasi.png" width="250" alt="Tampilan Aplikasi"/> |
 
 ## Build & Run
 
