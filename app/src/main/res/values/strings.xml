@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tugas8</string>
+    <string name="game_title">Unscramble Game</string>
+    <string name="game_author">Farrel Ghozy | 452024611053 | TI5A2</string>
+    <string name="score">Skor: %d</string>
+    <string name="word_count">Kata ke-%d</string>
+    <string name="guess_hint">Masukkan tebakan Anda</string>
+    <string name="submit">Submit</string>
+    <string name="skip">Skip</string>
+    <string name="play_again">Main Lagi</string>
+    <string name="game_over">Game Over!</string>
+    <string name="final_score">Skor Akhir: %d</string>
+    <string name="correct">Benar!</string>
+    <string name="wrong">Salah. Coba lagi!</string>
+</resources>
